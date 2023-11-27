@@ -16,7 +16,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
       <iframe
-          src={'cv.pdf'}
+          src={'/cv.pdf'}
           width="100%"
           height="600px"
           style={{ border: 'none' }}
