@@ -4,7 +4,6 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    const pdfPath = 'cv.pdf';
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
@@ -17,7 +16,7 @@ export default function Home() {
           Get started by editing <code>pages/index.js</code>
         </p>
       <iframe
-          src={pdfPath}
+          src='cv.pdf'
           width="100%"
           height="600px"
           style={{ border: 'none' }}
