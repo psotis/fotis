@@ -4,7 +4,7 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-    const pdfPath = '/path/to/yourfile.pdf';
+    const pdfPath = 'cv.pdf';
     <div className="container">
       <Head>
         <title>Next.js Starter!</title>
