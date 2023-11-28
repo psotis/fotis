@@ -14,8 +14,8 @@ export default function Home() {
       <iframe
   
           src={"https://rawcdn.githack.com/psotis/fotis/main/cv.pdf"}
-          width="70%"
-          height="600px"
+          width="1000px"
+          height="700px"
           style={{ border: 'none' }}
         />
       </main>
