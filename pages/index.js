@@ -13,7 +13,7 @@ export default function Home() {
       <main>
       <iframe
   
-          src={"file:///C:/Users/Fotis Psarris/Downloads/cv.pdf"}
+          src={"/cv.pdf"}
           width="100%"
           height="600px"
           style={{ border: 'none' }}
