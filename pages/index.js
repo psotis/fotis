@@ -13,7 +13,7 @@ export default function Home() {
       <main>
       <iframe
   
-          src={"/cv.pdf"}
+          src={"https://raw.githubusercontent.com/psotis/fotis/main/cv.pdf"}
           width="100%"
           height="600px"
           style={{ border: 'none' }}
